@@ -39,7 +39,6 @@
 	else
 		{
 				require('./view/front/denglu.html');
-				
 		}
 		
 
