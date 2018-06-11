@@ -16,6 +16,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/Tool/
+login.php
 
 # =========================
 # Operating System Files
